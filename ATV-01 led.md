@@ -1,10 +1,10 @@
-##LED
+#LED
 
 #INTRODUÇÃO
 
 Este projeto foi desenvolvido dentro do tinkercad, na disciplina de Internet das Coisas (IOT), para a criação de um prototipo com arduino de led que acende e apaga.
 
-##COMPONENTES USADOS
+#COMPONENTES USADOS
 
 - 1 Arduino Uno
 - 1 Resistor de 1 kOhms
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido dentro do tinkercad, na disciplina de Internet das
 - 1 Led 
 - 4 Jumpers Macho-Macho
 
-##EXPLICAÇÃO DO CÓDIGO 
+#EXPLICAÇÃO DO CÓDIGO 
 
 //variavel para capturar a porta de conexão do led int led = 4;
 
@@ -47,7 +47,7 @@ void loop()
 
 }
 
-##MONTAGEM DO CIRCUITO
+#MONTAGEM DO CIRCUITO
 
 ![LED](ATV-01led.png)
 
